@@ -5,5 +5,5 @@ Added
 - Added immersive in-game music with a total of 28 custom tracks for exploration across multiple dimensions (including the Overworld), boss battles, and boss victories.
 - Added the custom Eldrava UI & Audio mod, featuring personalized interface icons, menu controls, and all custom audio required for the new music system.
 
-Changed
+Fixed
 - Fixed an issue where the main menu music would stop playing when navigating to other menus (Singleplayer, Multiplayer, Options, etc.).
