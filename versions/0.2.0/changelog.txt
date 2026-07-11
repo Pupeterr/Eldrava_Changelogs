@@ -1,0 +1,9 @@
+Added
+- Added 2 new main menu tracks.
+- Added Play/Pause and Skip buttons to control the main menu music.
+- Added the Modpack Update Checker mod to notify players in-game when a new Eldrava update is available.
+- Added immersive in-game music with a total of 28 custom tracks for exploration across multiple dimensions (including the Overworld), boss battles, and boss victories.
+- Added the custom Eldrava UI & Audio mod, featuring personalized interface icons, menu controls, and all custom audio required for the new music system.
+
+Changed
+- Fixed an issue where the main menu music would stop playing when navigating to other menus (Singleplayer, Multiplayer, Options, etc.).
