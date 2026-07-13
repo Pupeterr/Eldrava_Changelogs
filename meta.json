@@ -11,6 +11,11 @@
       "id": "0.2.1",
       "releasedAt": 1783968600000,
       "updateType": "major"
+    },
+    {
+      "id": "0.2.1",
+      "releasedAt": 1783971900000,
+      "updateType": "minor"
     }
   ]
 }

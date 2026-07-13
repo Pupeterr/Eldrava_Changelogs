@@ -1,0 +1,5 @@
+Changed
+ - Updated the Scaling Health configuration to be compatible with the Eldrava UI & Audio Resource Pack.
+
+Fixed
+ - Fixed an issue that caused custom exploration music to stop abruptly before the end of a track.
