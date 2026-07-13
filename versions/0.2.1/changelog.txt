@@ -1,0 +1,11 @@
+Added
+ - Added SecurityCraft to provide new base protection and security features.
+ - Added Create Big Cannons along with additional shell and compatibility addons.
+ - Added several difficulty expansion mods, introducing stronger enemies, progressive world scaling, and more challenging combat as your adventure progresses.
+ - Added Valkyrien Skies, enabling physics-based ships and moving contraptions.
+
+Known Issues
+ - Due to an incompatibility between Valkyrien Skies, Sodium, and Forgematica, some players may see giant textures rendered in the sky.
+ - As a temporary workaround, disable Forgematica's schematic rendering in its settings whenever you are not actively building.
+ - If you need to use a blueprint, you will have to enable schematic rendering again, and the visual issue will return until it is disabled.
+ - Unfortunately, there is currently no permanent fix, as this issue must be resolved by the Valkyrien Skies developers.
